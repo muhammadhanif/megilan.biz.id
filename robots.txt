@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://megilan.biz.id/sitemap.xml
